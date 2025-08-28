@@ -18,10 +18,12 @@ This document contains supplementary material for the article “Global willingn
 ## OUTPUT – This set of nine folders contains intermediate outputs and results not presented in the manuscript or appendix: 
 ### - OUTPUT-ANALYSIS   
 ### - OUTPUT-BASE FILE 
+### - OUTPUT-DIRECT COSTS
 ### - OUTPUT-ECONOMIC DATA
 ### - OUTPUT-FERTILITY.zip
 ### - OUTPUT-FOREX      
-### - OUTPUT-GEO DATA  
+### - OUTPUT-GEO DATA 
+### - OUTPUT-INDIRECT COSTS
 ### - OUTPUT-MANUSCRIPT 
 ### - OUTPUT-POPULATION
 ### - OUTPUT-TREE RESULTS
