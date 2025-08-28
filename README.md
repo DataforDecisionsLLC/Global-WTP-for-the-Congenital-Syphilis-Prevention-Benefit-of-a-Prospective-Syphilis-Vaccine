@@ -15,7 +15,7 @@ This document contains supplementary material for the article “Global willingn
 ### - CODE-MANUSCRIPT   
 ### - CODE-MASTERS      
 ### - CODE-POPULATION  
-## OUTPUT – This set of nine folders contains intermediate outputs and results not presented in the manuscript or appendix: 
+## OUTPUT – This set of 11 folders contains intermediate outputs and results not presented in the manuscript or appendix: 
 ### - OUTPUT-ANALYSIS   
 ### - OUTPUT-BASE FILE 
 ### - OUTPUT-DIRECT COSTS
@@ -40,10 +40,9 @@ This document contains supplementary material for the article “Global willingn
 ### - single_age_hearing_loss_costs_w_life_tables.zip
 ### - single_age_indirect_hearing_loss_costs_w_life_tables.zip
 ### Note that per our license restrictions, we cannot share any files that contain raw Global Burden of Disease Study 2021 (GBD 2021) data.
-## RAW DATA – This set of 18 folders contains raw data used in the analysis: 
+## RAW DATA – This set of 17 folders contains raw data used in the analysis: 
 ### - RAW DATA-DHS
 ### - RAW DATA-DIRECT COSTS
-### - RAW DATA-FERTILITY RATES
 ### - RAW DATA-FOREX    
 ### - RAW DATA-GAVI     
 ### - RAW DATA-GEM      
